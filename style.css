@@ -125,8 +125,9 @@ input {
 }
 
 .landing-section {
-    height: 60vh;
-    height: 80svh;   
+    /* height: 60vh; */
+    /* height: 80svh;    */
+    margin-top: 24px;
     /* background: rgb(238,174,202);
     background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); */
 }
