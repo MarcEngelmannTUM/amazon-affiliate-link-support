@@ -47,6 +47,7 @@ h3{
   font-weight: 100;
   font-family: 'Lato';
   text-transform: uppercase;
+  color: whitesmoke;
 }
 
 .marc-img {
@@ -100,7 +101,7 @@ input {
 }
 
 .privacy-img {
-  margin: 0 auto;
+  margin: 24px auto;
   width: 50%;
   max-width: 300px;
   mask-image: radial-gradient(ellipse at center, rgba(255,255,255,1) 1%,rgba(255,255,255,0) 80%);
