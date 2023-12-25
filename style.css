@@ -138,3 +138,7 @@ input {
 .url-parameter {
   font-style: italic;
 }
+
+.wrong-url-input {
+  border: 1px solid red
+}
